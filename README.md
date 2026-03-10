@@ -1,7 +1,7 @@
 # Hi there, I'm Durairaj E 👋
 ### 🛡️ Information Security Analyst | SOC L1 | Endpoint & Email Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/durairaj-e/?
+[![LinkedIn]https://www.linkedin.com/in/durairaj-e/?
 lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BttoKJxp4TYyb7EZloiGH0A%3D%3D))
 [![Email](https://img.shields.io/badge/Email-durairajd92@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:durairajd92@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Chengalpattu,_India-34A853?style=for-the-badge&logo=googlemaps)](https://maps.google.com)
